@@ -1,2 +1,2 @@
-# QR_image
+# QR_image_Generator_from_URL
  
